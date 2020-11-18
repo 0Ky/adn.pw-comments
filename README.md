@@ -1,2 +1,2 @@
 # adn.pw-comments
-Comments for blog used by utterances 
+Comments for website using utterances 
